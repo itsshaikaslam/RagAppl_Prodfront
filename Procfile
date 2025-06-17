@@ -1,1 +1,1 @@
-web: python start.py
+web: streamlit run start.py --server.port $PORT --server.address 0.0.0.0
