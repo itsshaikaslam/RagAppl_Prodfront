@@ -1,4 +1,4 @@
-import os
+'''import os
 import subprocess
 import sys
 
@@ -17,4 +17,4 @@ subprocess.run([
     app_path,
     '--server.address', '0.0.0.0',
     '--server.port', str(port)
-])
+])'''
