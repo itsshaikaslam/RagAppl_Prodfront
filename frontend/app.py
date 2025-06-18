@@ -645,7 +645,7 @@ import time
 from typing import List, Dict, Any
 
 # Constants
-API_URL = "https://web-production-6ef03.up.railway.app/"
+API_URL = "https://web-production-6ef03.up.railway.app"
 
 def format_file_size(size_bytes):
     """Format file size in bytes to human readable format."""
