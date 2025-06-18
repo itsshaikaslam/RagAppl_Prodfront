@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# import streamlit as st
+#import streamlit as st
 # import requests
 # import json
 # from datetime import datetime
@@ -309,12 +308,6 @@
 #         <p>Google Drive RAG Application | Built with FastAPI, Streamlit, and Elasticsearch</p>
 #     </div>
 # """, unsafe_allow_html=True) 
-
-
-
-
-import streamlit as st
-=======
 '''import streamlit as st
 >>>>>>> a1ec42e25924b78808faaef0234f538b0bf9f322
 import requests
@@ -636,13 +629,13 @@ st.markdown("""
     <div style='text-align: center'>
         <p>Google Drive RAG Application | Built with FastAPI, Streamlit, and Elasticsearch</p>
     </div>
-<<<<<<< HEAD
+
 """, unsafe_allow_html=True)
 =======
 """, unsafe_allow_html=True) '''
 
 
-
+##new changes to output struct
 import streamlit as st
 import requests
 import json
@@ -964,4 +957,3 @@ st.markdown("""
         <p>Google Drive RAG Application | Built with FastAPI, Streamlit, and Elasticsearch</p>
     </div>
 """, unsafe_allow_html=True)
->>>>>>> a1ec42e25924b78808faaef0234f538b0bf9f322
